@@ -7,7 +7,7 @@
 📍 Bangalore, India · 🎓 B.Tech CSE at GITAM University (2023 to 2027)
 
 </div>
-
+ 
 ---
 
 ## 👨‍💻 About me

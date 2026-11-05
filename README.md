@@ -1,7 +1,7 @@
 <div align="center">
   
 # Hi, I'm Santosh 👋
-
+ 
 **Dhadham Santosh Reddy** · Computer Science undergraduate · Full-stack and cloud developer
 
 📍 Bangalore, India · 🎓 B.Tech CSE at GITAM University (2023 to 2027)
